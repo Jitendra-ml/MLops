@@ -7,7 +7,7 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.0.20-purple.svg)](https://langchain-ai.github.io/langgraph/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-blue.svg)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/Docker-Build-2496ED.svg)](https://docker.com/)
-[![CI/CD](https://github.com/yourusername/astrophysics-rag/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jitendra-ml/MLops/actions)
+[![CI/CD](https://github.com/Jitendra-ml/MLops/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jitendra-ml/MLops/actions)
 
 ---
 
